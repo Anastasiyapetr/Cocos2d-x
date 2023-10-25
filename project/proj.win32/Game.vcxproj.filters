@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\User\Desktop\Game\Classes\AppDelegate.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\Desktop\Game\Classes\HelloWorldScene.cpp">
+      <Filter>Source Files\Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\Desktop\Game\proj.win32\main.cpp">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\User\Desktop\Game\cocos2d\cocos\precheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Classes\AppDelegate.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Classes\HelloWorldScene.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Classes\Figure.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Classes\Action.h">
+      <Filter>Source Files\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\proj.win32\main.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\proj.win32\resource.h">
+      <Filter>Source Files\proj.win32</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\ButtonNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\ButtonPressed.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\CloseNormal.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\CloseSelected.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\Ellipse.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\HelloWorld.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\Panel.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\PanelButton.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\PanelButtonPressed.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\Triangle.png">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\__MACOSX\._Resources">
+      <Filter>Resources\__MACOSX</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\__MACOSX\Resources\._ButtonNormal.png">
+      <Filter>Resources\__MACOSX\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\__MACOSX\Resources\._ButtonPressed.png">
+      <Filter>Resources\__MACOSX\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\__MACOSX\Resources\._Panel.png">
+      <Filter>Resources\__MACOSX\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\__MACOSX\Resources\._PanelButton.png">
+      <Filter>Resources\__MACOSX\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\__MACOSX\Resources\._PanelButtonPressed.png">
+      <Filter>Resources\__MACOSX\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\__MACOSX\Resources\._Triangle.png">
+      <Filter>Resources\__MACOSX\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\fonts\Marker Felt.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\fonts\arial.ttf">
+      <Filter>Resources\fonts</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\User\Desktop\Game\Resources\res\.gitkeep">
+      <Filter>Resources\res</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Desktop\Game\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\User\Desktop\Game\proj.win32\game.rc">
+      <Filter>Source Files\proj.win32</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{CBD45176-FC14-3012-9733-F917F084219C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\__MACOSX">
+      <UniqueIdentifier>{7386A406-BD45-397B-BB6A-B98DDBA33F0C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\__MACOSX\Resources">
+      <UniqueIdentifier>{B9B448C6-6EB9-3BB9-9CF6-FD4F7BD1D6E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\fonts">
+      <UniqueIdentifier>{195BD99C-891A-379E-BE0B-DD251DC531E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\res">
+      <UniqueIdentifier>{4580EFEC-78BE-369F-B7B8-C1233678286E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D78BF1B7-05F2-337B-9873-34FCDFA2AA24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Classes">
+      <UniqueIdentifier>{8890183E-F50A-355E-81DF-3C42E68BA840}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\proj.win32">
+      <UniqueIdentifier>{189AB549-E355-3671-AF24-A4C3A0369987}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Resources\Square.png">
+      <Filter>Resources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="..\Resources\fonts\TimesNewRoman.ttf">
+      <Filter>Resources\fonts</Filter>
+    </Font>
+  </ItemGroup>
+</Project>
